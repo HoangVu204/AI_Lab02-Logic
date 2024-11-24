@@ -1,0 +1,9 @@
+4
+C
+A OR D
+B OR D
+C OR D
+1
+D
+0
+NO
